@@ -1,21 +1,3 @@
-Task 1: Data Immersion & Wrangling
-
-Objective:
-To clean, prepare, and transform the dataset for analysis.
-
-Steps performed:
-1. Loaded the dataset and studied its structure.
-2. Identified missing values, duplicates, inconsistent formatting, and outliers.
-3. Cleaned the data using Python.
-4. Standardized text and date formats.
-5. Created new features such as age and revenue.
-6. Saved the final cleaned dataset for analysis.
-
-Deliverables:
-- Data dictionary
-- Cleaning script
-- Cleaned dataset
-
 # Task 1: Data Immersion & Wrangling
 
 ### Objective
@@ -62,7 +44,6 @@ The project uses a Superstore Sales dataset containing information about:
 
 ---
 
----
 
 ### Conclusion
 
