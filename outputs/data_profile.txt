@@ -1,0 +1,38 @@
+DATASET PROFILE
+
+Rows: 9994
+Columns: 13
+
+COLUMN INFO:
+- ship_mode: object
+- segment: object
+- country: object
+- city: object
+- state: object
+- postal_code: int64
+- region: object
+- category: object
+- sub-category: object
+- sales: float64
+- quantity: int64
+- discount: float64
+- profit: float64
+
+MISSING VALUES:
+ship_mode       0
+segment         0
+country         0
+city            0
+state           0
+postal_code     0
+region          0
+category        0
+sub-category    0
+sales           0
+quantity        0
+discount        0
+profit          0
+dtype: int64
+
+DUPLICATES:
+17

@@ -1,0 +1,18 @@
+ship_mode,segment,country,city,state,postal_code,region,category,sub-category,sales,quantity,discount,profit
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Chairs,281.372,2,0.3,-12.0588
+Standard Class,Consumer,United States,Salem,Oregon,97301,West,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Paper,12.84,3,0.0,5.778
+Same Day,Home Office,United States,San Francisco,California,94122,West,Office Supplies,Labels,41.4,4,0.0,19.872
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Art,11.76,4,0.0,3.1752
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,49.12,4,0.0,23.0864
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Office Supplies,Paper,25.92,4,0.0,12.4416
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Paper,25.92,4,0.0,12.4416
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,47.952,3,0.2,16.1838
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Office Supplies,Paper,12.96,2,0.0,6.2208
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,Furniture,Chairs,389.97,3,0.0,35.0973
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Furniture,Furnishings,22.14,3,0.0,6.4206
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Binders,3.564,3,0.8,-6.237
