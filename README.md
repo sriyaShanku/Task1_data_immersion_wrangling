@@ -3,9 +3,9 @@
 ### Objective
 The objective of this task is to understand, clean, and prepare raw data for analysis by identifying and fixing data quality issues.
 
----
 
-### Dataset
+
+## Dataset
 The project uses a Superstore Sales dataset containing information about:
 - Orders
 - Customers
